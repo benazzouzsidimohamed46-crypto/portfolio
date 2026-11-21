@@ -39,7 +39,7 @@ export const documents: { cv: DocEntry; certificates: Record<string, DocEntry> }
     tcf: {
       title: "TCF TP - B2",
       fileName: "tcf-certificate.pdf",
-      url: "documents\Attestation TCF Tout public 20261102.pdf", // or "documents/tcf-certificate.pdf"
+      url: "public/documents/Attestation TCF Tout public 20261102.pdf", // or "documents/tcf-certificate.pdf"
       enabled: true,
     },
     efset: {
